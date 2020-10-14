@@ -41,7 +41,7 @@ public class TerrapinCard {
             
     }
     
-    @Override
+    //@Override
     public String toString(){
         return "The card has " + this.balance + " dollars";
     }
